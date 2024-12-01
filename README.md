@@ -1,0 +1,1 @@
+This project uses crystal-graph convolutional neural networks to go through a set of nano-porous materials known as metal-organic frameworks and analyses the uptake capacity of carbon dioxide of the materials.
